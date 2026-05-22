@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://z10financegroup.com.au/sitemap.xml
