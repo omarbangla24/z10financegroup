@@ -4,7 +4,21 @@
       "Bash(python3)",
       "Bash(git init *)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(git remote *)",
+      "Bash(git branch *)",
+      "Bash(git push *)",
+      "Bash(gh repo *)",
+      "Bash(gh api *)",
+      "Bash(dig z10financegroup.com.au A +short)",
+      "Bash(dig www.z10financegroup.com.au CNAME +short)",
+      "Bash(git pull *)",
+      "Bash(git stash *)",
+      "Bash(git -C /Users/mdomarfaruk/Sites/demo/fincance status)",
+      "Bash(git -C /Users/mdomarfaruk/Sites/demo/fincance diff --stat)",
+      "Bash(git -C /Users/mdomarfaruk/Sites/demo/fincance add css/custom-footer.css index.html)",
+      "Bash(git -C /Users/mdomarfaruk/Sites/demo/fincance commit -m ' *)",
+      "Bash(git -C /Users/mdomarfaruk/Sites/demo/fincance push origin main)"
     ]
   }
 }
